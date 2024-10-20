@@ -16,7 +16,7 @@
 
 ---
 
-# Part B: Exercise
+# Part B: Explore
 
 ## Exploring Group and File Permissions in Ubuntu
 
