@@ -10,7 +10,7 @@
   - You can download Ubuntu from [this link](https://ubuntu.com/download/desktop).
 
 **4. Image of a successful Install**
-[!image]()
+![image](./images/w8_ubuntu_success.png)
 
 ---
 
