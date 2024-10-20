@@ -1,16 +1,18 @@
 # Part A: Preparation
 
-**1. How to Run an Ubuntu Desktop Virtual Machine Using VirtualBox**  
-  - [Follow this tutorial](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview) to set up an Ubuntu Desktop virtual machine on VirtualBox.
+1. **How to Run an Ubuntu Desktop Virtual Machine Using VirtualBox**  
+   [Follow this tutorial](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview) to set up an Ubuntu Desktop virtual machine on VirtualBox.
 
-**2. Download VirtualBox**  
-  - You can download VirtualBox from [this link](https://www.virtualbox.org/wiki/Downloads).
+3. **Download VirtualBox**  
+   You can download VirtualBox from [this link](https://www.virtualbox.org/wiki/Downloads).
 
-**3. Download Ubuntu**  
-  - You can download Ubuntu from [this link](https://ubuntu.com/download/desktop).
+4. **Download Ubuntu**  
+   You can download Ubuntu from [this link](https://ubuntu.com/download/desktop).
 
-**4. Image of a successful Install**
-    ![image](./images/w8_ubuntu_success.png)
+5. **Image of a successful Install**  
+   ![image](./images/w8_ubuntu_success.png)
+
+<br>
 
 ---
 
@@ -98,7 +100,9 @@ In this exercise, you will create a new group called `explorers`, add yourself t
   
 <br>
 
-### Congrats, you have completed this exercise!
+### Congratulations! You have explored command lines in Ubuntu Linux!
+
+<br>
 
 ---
 
