@@ -38,6 +38,7 @@ In the following video, you’ll gain a deeper understanding of the powerful fea
   <li>Explain the roles of PRI and NI.</li>
   <li>Explain the steps to kill a process in htop.</li>
   <li>What is the default signal for killing a process?</li>
+  <li>What other commands can be used to look up a task's PID on Linux? What about on Windows?/li>
 </ol>
 
 
