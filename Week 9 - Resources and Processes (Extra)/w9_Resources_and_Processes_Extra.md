@@ -25,17 +25,19 @@ In the following video, you’ll gain a deeper understanding of the powerful fea
 
 ## Questions
 <ol>
-  <li>Identify the expanded name of each numbered item:</li>
-    <li>Define the following terms:
-        <img src="..images/w9_EXE_htop.png" width="600">
+  <li>Identify the expanded name of each numbered item (1 - 6):<br>
+      <i>Click to zoom-in the picture</i>
+    <img src="../images/w9_EXE_htop.png" width="1000" /></li>
+  <li>Define the following terms:
     <ul>
       <li>Threads</li>
       <li>Running: What does it mean when a process is "running"?</li>
       <li>Uptime</li>
     </ul>
-    </li>
-    <li>Explain the roles of PRI and NI.</li>
-    <li>Explain the steps to kill a process in htop.</li>
-    <li>What is the default signal for killing a process?</li>
+  </li>
+  <li>Explain the roles of PRI and NI.</li>
+  <li>Explain the steps to kill a process in htop.</li>
+  <li>What is the default signal for killing a process?</li>
 </ol>
+
 
