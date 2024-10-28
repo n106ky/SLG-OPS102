@@ -4,6 +4,12 @@ Do you still remember all the command-line tools after study week? Let’s do a 
 <a href="https://www.youtube.com/watch?v=gd7BXuUQ91w"><br>
     <img src="https://img.youtube.com/vi/gd7BXuUQ91w/maxresdefault.jpg" width="600">
 </a>
+## Questions
+<ul>
+    <li>How many command-lines have you learnt so far?</li>
+    <li>Can you find a Windows version?</li>
+</ul>
+<br>
 
 # PART B: HTOP
 There are three commands you can use to check processes running on your system:
