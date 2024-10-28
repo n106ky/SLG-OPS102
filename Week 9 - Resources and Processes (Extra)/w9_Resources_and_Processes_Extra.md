@@ -27,6 +27,7 @@ In the following video, you’ll gain a deeper understanding of the powerful fea
 <ol>
   <li>Identify the expanded name of each numbered item:</li>
     <li>Define the following terms:
+        <img src="..images/w9_EXE_htop.png" width="600">
     <ul>
       <li>Threads</li>
       <li>Running: What does it mean when a process is "running"?</li>
