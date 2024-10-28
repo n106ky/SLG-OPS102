@@ -40,5 +40,13 @@ In the following video, you’ll gain a deeper understanding of the powerful fea
   <li>What is the default signal for killing a process?</li>
   <li>What other commands can be used to look up a task's PID on Linux? What about on Windows?/li>
 </ol>
+<br>
 
+# PART C: Explore Windows CMD
+This is out of scope but definitely fun to know. You might impress your programming friends by showing them!<br><br>
+<strong>30 Windows Commands you CAN’T live without</strong><br>
+<a href="https://www.youtube.com/watch?v=prVHU1fLR20"><br>
+    <img src="https://img.youtube.com/vi/prVHU1fLR20/maxresdefault.jpg" width="600">
+</a>
 
+Explore more on your own! Share with us if you find something even cooler!
