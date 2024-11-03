@@ -65,7 +65,7 @@ The goal of this script is to simulate a simple ATM system with these options:
 
 
 ---
-### Sample Output
+## Sample Output
 **Ask for User's Name** 
 **Display the Service Options and Prompt for Selection**  
 <img src="https://github.com/user-attachments/assets/6db5153d-241b-4b7a-9201-cf45d32d267e" width="500">
@@ -85,8 +85,7 @@ The goal of this script is to simulate a simple ATM system with these options:
 <img src="https://github.com/user-attachments/assets/a4506c24-855d-45e3-aadc-0ac7866aa2e7" width="500">
 
 ---
-
-### Key Bash Concepts
+## Key Bash Concepts
 
 1. **Variables**:
     - Define variables for storing **initial value**, and **user input**.
