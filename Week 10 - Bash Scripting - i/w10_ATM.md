@@ -101,7 +101,7 @@ The goal of this script is to simulate a simple ATM system with these options:
 5. **Date Commands**:
     - Use the `date` command to show the current date and to calculate a date one year from now.
     - Use `+"%Y-%m-%d"` to format dates consistently in the `YYYY-MM-DD` format.
-    - Linux uses `d "+1 year"` to get the date one year from now.
+    - Linux uses option `-d` and `"+1 year"` to get the date one year from now.
 6. **Logical OR in Conditional Statements**:
     - Use `||` to check for multiple conditions. For example, if the user’s response is either "Y" or "y" (for case insensitivity), execute the next block.
 
