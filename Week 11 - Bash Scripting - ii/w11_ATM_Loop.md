@@ -1,13 +1,15 @@
 # Exercise: ATM Continue
 
 ## Objectives
-Practice using the Matrix server (Linux) and apply what you've learned in this session to implement **loops** in a Bash script.
+Practice using the Matrix server (Linux) and apply what you've learned in this session to implement **loops** in a Bash script.  
 
 **Recap 4 Types of Loops:**  
 ```for VARIABLE in LIST```: Iterates over items in a list.  
 ```for (( ; ; ))```: C-style loop, useful for specifying initialization, condition, and increment/decrement.  
 ```while EXPR```: Loops while the condition is true.  
 ```until EXPR```: Loops until the condition is met.  
+
+You may refer to [Bash Scripting - 2](http://15.223.64.81/doku.php?id=ops102:bash_scripting_2_-_loops) course materials.
 
 ---
 ## Step-by-Step Instructions
