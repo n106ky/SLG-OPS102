@@ -5,7 +5,7 @@ Practice using the Matrix server (Linux) and apply what you've learned in this s
 
 **Recap 4 Types of Loops:**  
 ```for VARIABLE in LIST```: Iterates over items in a list.  
-```for (( ; ; ))```: C-style loop, useful for specifying initialization, condition, and increment/decrement.  
+```for (( ; ; ))```: C-style loop, useful for specifying initialization, condition, and modification (increment / decrement).  
 ```while EXPR```: Loops while the condition is true.  
 ```until EXPR```: Loops until the condition is met.  
 
