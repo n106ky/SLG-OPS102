@@ -47,30 +47,18 @@ If you have not completed last week's exercise, you may travel back to [Week 10 
 <img src="https://github.com/user-attachments/assets/612ef468-2c20-4d64-8710-de329e9a972d" width="500">
 
 ---
-## Key Bash Concepts
+## Key Bash Concepts in this exercise
 
-1. **Variables**:
-   - Used to store initial values like the savings balance and user input.
-
-2. **Input and Output**:
-   - `read` captures user input, and `echo -e` displays messages with escape sequences like newlines for formatting.
-
-3. **Conditional Statements**:
+1. **Conditional Statements**:
    - `if...elif...else` blocks control program flow based on the user’s choices.
    - `[[]]` syntax is used for conditions, and logical operators like `||` check multiple conditions.
 
-4. **Loops**:
+2. **Loops**:
    - **While-loop**: Repeats actions based on conditions, e.g., to keep the program running until the user exits.
    - **For-loop**: Iterates over a list, e.g., to display service options.
    - **Until-loop**: Repeats prompts until valid input is given, ensuring user input correctness.
 
-5. **Arithmetic Operations**:
-   - `$(( ... ))` performs calculations, e.g., updating the savings balance.
-
-6. **Date Commands**:
-   - `date` retrieves the current date or calculates future dates with formatting options.
-
-7. **Regular Expressions**:
+3. **Regular Expressions**:
    - **Purpose**: Used for input validation to ensure user entries are in the correct format, such as checking that the amount entered is a positive integer.
    - **Syntax**: Regular expressions in Bash use the `=~` operator within `[[ ... ]]` conditions to check for patterns.
    - **Example**:
