@@ -44,13 +44,6 @@ If you have not completed last week's exercise, you may travel back to Week 10 f
 <img src="https://github.com/user-attachments/assets/612ef468-2c20-4d64-8710-de329e9a972d" width="500">
 
 ---
-Certainly! Here’s a simplified summary of the key Bash concepts based on your script:
-
----
-Here’s an expanded explanation for the **Regular Expressions** concept with a bit more code detail:
-
----
-
 ## Key Bash Concepts
 
 1. **Variables**:
