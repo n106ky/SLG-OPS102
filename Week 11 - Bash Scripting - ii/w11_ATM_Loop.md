@@ -14,7 +14,8 @@ Practice using the Matrix server (Linux) and apply what you've learned in this s
 
 In this exercise, you’ll use **for-loop**, **while-loop**, and **until-loop** to create an interactive ATM program.  
 
-If you have not completed last week's exercise, you may travel back to Week 10 folder and copy the code.
+
+If you have not completed last week's exercise, you may travel back to [Week 10 folder](https://github.com/n106ky/SLG-OPS102/blob/main/Week%2010%20-%20Bash%20Scripting%20-%20i/w10_ATM_ANS.md)  and copy the code.
 
 ### Apply Loops in the Following Situations:
 
@@ -39,7 +40,7 @@ If you have not completed last week's exercise, you may travel back to Week 10 f
 ---
 ## Sample Output
 **If user chose Selection 1 & 2**  
-```📌Also notice how the Savings amount got updated```  
+```📌Also notice how the Savings amount got updated after Deposit and Withdrawal```  
 
 <img src="https://github.com/user-attachments/assets/612ef468-2c20-4d64-8710-de329e9a972d" width="500">
 
