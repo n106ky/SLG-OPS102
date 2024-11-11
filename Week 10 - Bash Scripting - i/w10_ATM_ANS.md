@@ -4,7 +4,7 @@
 
 SAVINGS=100000
 
-read -p "\nHello! Please enter your name: " NAME
+read -p "Hello! Please enter your name: " NAME
 echo -e "\n\
 Welcome back, $NAME.\n\n\
 Which service do you need today?"
