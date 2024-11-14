@@ -36,10 +36,7 @@ Which service do you need today?"
 
 # Q1. APPLY WHILE LOOP TO CHECK IF USER WANTS TO CONTINUE
 
-
         # Q2. FOR LOOP TO DISPLAY THE SERVICE ITEMS
-
-
 
         read -p "Select a service (1-4): " SRV
 
@@ -53,10 +50,7 @@ Which service do you need today?"
                 read -p "Please enter the deposit amount (CAD\$): " AMT
                 # Q4. VALIDATE IF USER INPUT A POSITIVE AMOUNT
 
-
                 echo -e "\nYou have deposited $AMT.\nYour new balance is $(( SAVINGS = SAVINGS + AMT )).\n"
-
-
 
         elif [[ $SRV == 2 ]]
         then
@@ -64,8 +58,7 @@ Which service do you need today?"
 
                 read -p "Please enter the withdrawal amount (CAD\$): " AMT
 
-                # Q4. VALIDATE IF USER INPUT A POSITIVE AMOUNT (SAME AS ABOVE
-)
+                # Q4. VALIDATE IF USER INPUT A POSITIVE AMOUNT (SAME AS ABOVE)
 
 
         echo -e "\nYou have withdrawn $AMT.\nYour new balance is $(( SAVINGS = SAVINGS - AMT )).\n"
@@ -86,10 +79,8 @@ Which service do you need today?"
                         echo -e "\nThank you for using our service. Goodbye!\n"
                 fi
         fi
-        read -p "Do you wish to use another service (Y/N): " CONT
 
         # Q1. READ USER INPUT IF THEY WANTS TO CONTINUE THE SERVICE (CONT)
-
 
         # Q5. VALIDATE USER INPUT "CONT", IT ACCEPTS ONLY (Y / y / N / n)
 ```
