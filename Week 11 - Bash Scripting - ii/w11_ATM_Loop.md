@@ -17,7 +17,82 @@ You may refer to [Bash Scripting - 2](http://15.223.64.81/doku.php?id=ops102:bas
 In this exercise, you’ll use **for-loop**, **while-loop**, and **until-loop** to create an interactive ATM program.  
 
 
-If you have not completed last week's exercise, you may travel back to [Week 10 folder](https://github.com/n106ky/SLG-OPS102/blob/main/Week%2010%20-%20Bash%20Scripting%20-%20i/w10_ATM_ANS.md)  and copy the code.
+If you have not completed last week's exercise, you may travel back to [Week 10 folder](https://github.com/n106ky/SLG-OPS102/blob/main/Week%2010%20-%20Bash%20Scripting%20-%20i/w10_ATM_ANS.md) and upgrade the code, or use the following code as a template or guideline.
+
+```bash
+#!/usr/bin/bash
+
+SAVINGS=100000
+
+
+# Q1 INITIALIZATION: FOR THE WHILE LOOP
+CONT="Y"
+
+
+read -p "Hello! Please enter your name: " NAME
+echo -e "\n\
+Welcome back, $NAME.\n\n\
+Which service do you need today?"
+
+# Q1. APPLY WHILE LOOP TO CHECK IF USER WANTS TO CONTINUE
+
+
+        # Q2. FOR LOOP TO DISPLAY THE SERVICE ITEMS
+
+
+
+        read -p "Select a service (1-4): " SRV
+
+        # Q3. UNTIL-LOOP TO CHECK IF USER INPUT "SRV" IS BETWEEN 1 - 4
+
+
+        if [[ $SRV == 1 ]]
+        then
+                echo -e "\nYou selected 1. DEPOSIT\n"
+
+                read -p "Please enter the deposit amount (CAD\$): " AMT
+                # Q4. VALIDATE IF USER INPUT A POSITIVE AMOUNT
+
+
+                echo -e "\nYou have deposited $AMT.\nYour new balance is $(( SAVINGS = SAVINGS + AMT )).\n"
+
+
+
+        elif [[ $SRV == 2 ]]
+        then
+                echo -e "\nYou selected 2. WITHDRAWAL\n"
+
+                read -p "Please enter the withdrawal amount (CAD\$): " AMT
+
+                # Q4. VALIDATE IF USER INPUT A POSITIVE AMOUNT (SAME AS ABOVE
+)
+
+
+        echo -e "\nYou have withdrawn $AMT.\nYour new balance is $(( SAVINGS = SAVINGS - AMT )).\n"
+        elif [[ $SRV == 3 ]]
+        then
+                echo -e "\nYou selected 3. CHECK SAVINGS ACCOUNT\n"
+                echo -e "Your current balance is $SAVINGS.\n"
+        else
+                echo -e "\nYou selected 4. SAVINGS PLAN\n"
+                echo -e "Plan details:\nYou can receive 3 times the amount after 1 year from now!\n"
+
+                read -p "Are you sure you want to proceed (Y/N)? " ANS
+                if [[ $ANS == Y || $ANS == "y" ]]
+                then
+                        read -p "Please enter the amount that you want to save: " AMT
+                        echo -e "\nYou are saving $AMT on $(date +"%Y-%m-%d").\nOne year later, you will gain $(( NEW=$AMT * 3 )).\nYour total balance will be $(( NEW + SAVINGS )) on $(date -d "+1 year" +"%Y-%m-%d").\n"
+                else
+                        echo -e "\nThank you for using our service. Goodbye!\n"
+                fi
+        fi
+        read -p "Do you wish to use another service (Y/N): " CONT
+
+        # Q1. READ USER INPUT IF THEY WANTS TO CONTINUE THE SERVICE (CONT)
+
+
+        # Q5. VALIDATE USER INPUT "CONT", IT ACCEPTS ONLY (Y / y / N / n)
+```
 
 ### Apply Loops in the Following Situations:
 
