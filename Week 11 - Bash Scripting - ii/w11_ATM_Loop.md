@@ -16,6 +16,9 @@ You may refer to [Bash Scripting - 2](http://15.223.64.81/doku.php?id=ops102:bas
 
 In this exercise, you’ll use **for-loop**, **while-loop**, and **until-loop** to create an interactive ATM program.  
 
+### Preparation:
+
+Connect to your matrix terminal for this practice.
 
 If you have not completed last week's exercise, you may travel back to [Week 10 folder](https://github.com/n106ky/SLG-OPS102/blob/main/Week%2010%20-%20Bash%20Scripting%20-%20i/w10_ATM_ANS.md) and upgrade the code, or use the following code as a template or guideline.
 
