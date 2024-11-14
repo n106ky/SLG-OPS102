@@ -3,7 +3,7 @@
 ## Objectives
 Practice using the Matrix server (Linux) and apply what you've learned in this session to implement **loops** in a Bash script.  
 
-**Recap 4 Types of Loops:**  
+**Recap 4 Types of Loops**  
 ```for VARIABLE in LIST```: Iterates over items in a list.  
 ```for (( ; ; ))```: C-style loop, useful for specifying initialization, condition, and modification (increment / decrement).  
 ```while EXPR```: Loops while the condition is true.  
@@ -11,6 +11,9 @@ Practice using the Matrix server (Linux) and apply what you've learned in this s
 
 You may refer to [Bash Scripting - 2](http://15.223.64.81/doku.php?id=ops102:bash_scripting_2_-_loops) course materials.
 
+**Warm up**  
+Can you apply all four types of loops to print the numbers 1 to 5?  
+ 
 ---
 ## Step-by-Step Instructions
 
