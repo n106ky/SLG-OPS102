@@ -1,4 +1,4 @@
-# ATM (LOOP) - ANSWER
+# ATM (LOOP) Exercise: ANSWER
 ```bash
 #!/usr/bin/bash
 
