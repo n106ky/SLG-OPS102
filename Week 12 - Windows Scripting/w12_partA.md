@@ -7,10 +7,10 @@
 
 ## Debugging
 
-Each question contains 3 bugs.
-Each line may contain more than one bug.
-Your answer should include the line numbers along with the fixes.
-The expected output will be provided.
+Each question contains 3 bugs.  
+Each line may contain more than one bug.  
+The expected output will be provided.  
+Your answer should include the line numbers along with the fixes.  
 
 
 ## GUESS! (Walkthrough)
