@@ -35,8 +35,8 @@
 
 | **Feature**       | **Windows Batch Scripting**                          | **Linux Bash Scripting**                                   |
 |-------------------|------------------------------------------------------|----------------------------------------------------|
-| **GOTO**          | Jumps to a label in the script.                      | Not supported. <br> Use functions or structured logic i.e. `if`.  |
-| **Skip/Continue** | No built-in `continue`. `Skip` simulate with `GOTO`. | `continue` skips the current loop iteration.       |
+| **GOTO**          | Jumps to a `label` in the script.                      | Not supported. <br> Use functions or structured logic i.e. `if`.  |
+| **Continue**       | Not supported                                        | `continue` skips the current loop iteration.       |
 | **Break**         | Exit a loop using `exit /b`.                         | `break` exits the current loop.                    |
 | **Error Handling**| Use `GOTO` to handle errors or branching.            | Use functions or conditionals for error handling.  |
 | **Shift**         | Shifts positional parameters to the left (e.g., `%1` becomes `%2`).  | Same as Windows |
