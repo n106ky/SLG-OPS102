@@ -5,14 +5,16 @@
 
 ### Winget
 Explore `winget` with the following commands:
-- `winget search`  
+- `winget search`
+- `winget show`
 - `winget install`
+- `winget uninstall`
 
 ---
 
 ## Linux Package Management
 
-### 1. RPM (Red Hat Package Manager)
+### 1. `rpm`
 Explore `rpm` with the following commands:
 - `rpm -q bash` (example usage)
 - Options to explore:
@@ -23,7 +25,7 @@ Explore `rpm` with the following commands:
   - `--requires`
   - `--whatrequires`
 
-### 2. DNF
+### 2. `dnf`
 Explore `dnf` with the following subcommands:
 - `dnf info`
 - `dnf update`
@@ -35,6 +37,7 @@ Explore `dnf` with the following subcommands:
 2. `tar`
 3. `./configure`
 4. `make`
+<br>
 
 # PART B: Install Your Version of `nano`
 ```bash
@@ -65,9 +68,10 @@ make install
 ~/local/bin/nano --version
 nano --version
 ```
+<br>
 
 # PART C: Final Practice
-Link to the Practice [EXE OPS Sample Test](Week%2014%20-%20Software%20Management%20and%20Final%20Practice/Final%20Practice/EXE_OPS_Sample_Test.docx)  
-Link to the Sample Answer [ANS OPS Sample Test](Week%2014%20-%20Software%20Management%20and%20Final%20Practice/Final%20Practice/ANS_OPS_Sample_Test.docx)
+Link to the Practice         [EXE OPS Sample Test](Week%2014%20-%20Software%20Management%20and%20Final%20Practice/Final%20Practice/EXE_OPS_Sample_Test.docx)  
+Link to the Sample Answer    [ANS OPS Sample Test](Week%2014%20-%20Software%20Management%20and%20Final%20Practice/Final%20Practice/ANS_OPS_Sample_Test.docx)
 
 
