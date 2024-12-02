@@ -3,7 +3,7 @@
 
 ## Windows Package Management
 
-### Winget
+### `winget`
 Explore `winget` with the following commands:
 - `winget search`
 - `winget show`
