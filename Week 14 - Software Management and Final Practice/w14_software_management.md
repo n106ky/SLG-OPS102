@@ -10,8 +10,6 @@ Explore `winget` with the following commands:
 - `winget install`
 - `winget uninstall`
 
----
-
 ## Linux Package Management
 
 ### 1. `rpm`
