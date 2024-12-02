@@ -69,7 +69,8 @@ nano --version
 <br>
 
 # PART C: Final Practice
-Link to the Practice         [EXE OPS Sample Test](Week%2014%20-%20Software%20Management%20and%20Final%20Practice/Final%20Practice/EXE_OPS_Sample_Test.docx)  
-Link to the Sample Answer    [ANS OPS Sample Test](Week%2014%20-%20Software%20Management%20and%20Final%20Practice/Final%20Practice/ANS_OPS_Sample_Test.docx)
+
+Link to the Practice         [EXE OPS Sample Test](https://github.com/n106ky/SLG-OPS102/blob/main/Week%2014%20-%20Software%20Management%20and%20Final%20Practice/Final%20Practice/EXE_OPS_Sample_Test.docx)  
+Link to the Sample Answer    [ANS OPS Sample Test](https://github.com/n106ky/SLG-OPS102/blob/main/Week%2014%20-%20Software%20Management%20and%20Final%20Practice/Final%20Practice/ANS_OPS_Sample_Test.docx)
 
 
