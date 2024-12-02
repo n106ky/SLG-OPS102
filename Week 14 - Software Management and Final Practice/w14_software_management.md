@@ -33,7 +33,7 @@ Explore `dnf` with the following subcommands:
 ### 3. Additional Command Lines to Explore
 1. `wget`
 2. `tar`
-3. `./configure`
+3. `./configure` vs `./configure --prefix=<path>`
 4. `make`
 <br>
 
